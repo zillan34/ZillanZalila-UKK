@@ -17,7 +17,7 @@
             background-image: linear-gradient(to left,  #E5DDC5, #B3C8CF, #BED7DC, #F1EEDC );
             padding: 60px;
             width: 200px;
-            height: 370px;
+            height: 390px;
             border-radius: 10px;
             box-shadow: 0 0 10px #948979;   
         }
